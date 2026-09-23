@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+.idea/
+*.env
+*.env.local
+
+# RAG项目
+chroma_db/
+logs/
+data/
+model/
+
+# Streamlit
+.streamlit/
+
+# 临时文件
+*.log
+md5.text
